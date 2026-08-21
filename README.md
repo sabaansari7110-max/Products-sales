@@ -79,6 +79,8 @@ North region leads in revenue at $9667K managed by Ryan, while Printer and Lapto
 <img width="1299" height="1299" alt="Dashboard 4" src="https://github.com/user-attachments/assets/cd1e9435-67c8-45b4-b744-f4d4805097fe" />
 
 # Power BI Dashboard
+Added Profit Margin (23.5%) and Key Insights section
+ <br>
 DAX measure used: Total profit, Profit Marign %
 <br>
 <img width="2546" height="1496" alt="image1" src="https://github.com/user-attachments/assets/20a9aeb8-e0f1-4b93-9425-47562553bf7d" />
